@@ -1,0 +1,11 @@
+Model/Resorts.class
+Model/Message.class
+SkierServlet.class
+Model/LiftRide.class
+StatisticsServlet.class
+Model/Stats.class
+Model/ResortsList.class
+Model/ResortSkiers.class
+ResortServlet.class
+Model/SeasonsList.class
+Model/SkierVertical.class
